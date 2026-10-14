@@ -7,7 +7,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import com.example.datingapp.ui.screens.DatingScreen
+import com.example.datingapp.ui.screens.dating.DatingScreen
 import com.example.ui.theme.DatingAppTheme
 
 /**
