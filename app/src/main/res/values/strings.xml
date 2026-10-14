@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dating App</string>
+    <string name="like_button_desc">Thích hồ sơ</string>
+    <string name="pass_button_desc">Bỏ qua hồ sơ</string>
+    <string name="superlike_button_desc">Siêu thích hồ sơ</string>
+    <string name="reload_button_desc">Tải lại danh sách</string>
+    <string name="empty_title">Không còn hồ sơ nào gần bạn</string>
+    <string name="empty_subtitle">Hãy mở rộng bán kính tìm kiếm hoặc tải lại để xem lại các hồ sơ nhé!</string>
+    <string name="reload_button">Khám phá lại</string>
+    <string name="app_title">Cupid Match</string>
+    <string name="likes_count_format">%d hồ sơ còn lại</string>
+    <string name="swipe_hint">Quẹt thẻ hoặc chạm các nút bên dưới</string>
+</resources>

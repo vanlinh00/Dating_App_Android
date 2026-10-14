@@ -1,0 +1,8 @@
+{
+  "name": "Dating App",
+  "description": "Ứng dụng hẹn hò với giao diện quẹt thẻ và tương tác Like/Pass bằng Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
